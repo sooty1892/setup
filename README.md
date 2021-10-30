@@ -1,5 +1,12 @@
 # Mac setup
 
+## Brew
+* mvnvm
+* jenv
+
+
+https://www.jenv.be
+
 ## General Apps
 * Daisy Disk
 * IINA
