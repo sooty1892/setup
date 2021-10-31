@@ -1,11 +1,16 @@
 # Mac setup
 
+## Oh My Zsh
+* zsh-autosuggestions
+* zsh-syntax-highlighting
+* powerlever10k
+
 ## Brew
 * mvnvm
 * jenv
-
-
-https://www.jenv.be
+* nvm
+* tree
+* zsh-syntax-highlighting
 
 ## General Apps
 * Daisy Disk
@@ -39,3 +44,6 @@ https://www.jenv.be
 * Postman
 * Postgres
 * Postico
+
+## Boostrap
+`defaults write com.apple.screencapture location /Users/ashley/Library/Mobile\ Documents/com~apple~CloudDocs/screenshots`
