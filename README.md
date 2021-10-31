@@ -1,5 +1,8 @@
 # Mac setup
 
+## Sync VSCode
+* Settings Sync extension
+
 ## Oh My Zsh
 * zsh-autosuggestions
 * zsh-syntax-highlighting
